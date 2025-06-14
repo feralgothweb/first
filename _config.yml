@@ -1,7 +1,7 @@
 ---
-title: "My Blog"
-author: "Jayanta Kumar Kamila"
-description: "A personal blog created using Jekyll."
+title: "Feral Goth Web Blog"
+author: "Web Operations Technicians & Tacticians"
+description: "A cultural blog created using Jekyll."
 baseurl: "/blogs"
-url: "https://jayantakr.github.io" ("https://username-github.github.io")
+url: "https://www.feralgoth.info" ("https://www feralgoth.info")
 theme: minima
