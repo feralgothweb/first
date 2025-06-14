@@ -4,4 +4,4 @@ author: "Web Operations Technicians & Tacticians"
 description: "A cultural blog created using Jekyll."
 baseurl: "/blogs"
 url: "https://www.feralgoth.info" ("https://www feralgoth.info")
-theme: dinky
+theme: jekyll-theme-dinky
