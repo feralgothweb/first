@@ -7,3 +7,6 @@ README files typically include information on:
     Who maintains and contributes to the project
 
 If you put your README file in your repository's hidden .github, root, or docs directory, GitHub will recognize and automatically surface your README to repository visitors.
+
+
+how to get the posts to show as a link or on this page?
